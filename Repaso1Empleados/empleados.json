@@ -1,0 +1,16 @@
+{
+    "101": {
+        "id": 101,
+        "nombre": "Juan",
+        "edad": 30,
+        "departamento": "Ventas",
+        "salario": 3000
+    },
+    "102": {
+        "id": 102,
+        "nombre": "Ana",
+        "edad": 25,
+        "departamento": "Marketing",
+        "salario": 2800
+    }
+}
