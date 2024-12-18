@@ -1,0 +1,16 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "Juan P\u00e9rez",
+        "Edad": 30,
+        "Departamento": "Ventas",
+        "Salario": 2500.0
+    },
+    {
+        "ID": 2,
+        "Nombre": "Jose Manuel",
+        "Edad": 27,
+        "Departamento": "Informatica",
+        "Salario": 2700.0
+    }
+]
